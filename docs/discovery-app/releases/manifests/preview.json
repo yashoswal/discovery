@@ -1,0 +1,15 @@
+{
+  "ring": "preview",
+  "latestVersion": "0.15.16-publish-test.5876342",
+  "minimumVersion": "0.15.16-publish-test.5876342",
+  "schemaVersion": 1,
+  "platforms": {
+    "win-x64": {
+      "installerUrl": "https://aka.ms/discovery/download/current",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "releaseNotesUrl": "",
+  "releaseNotesSummary": "TEST MANIFEST - DO NOT MERGE",
+  "releasedAt": "2026-09-23T18:08:40Z"
+}
